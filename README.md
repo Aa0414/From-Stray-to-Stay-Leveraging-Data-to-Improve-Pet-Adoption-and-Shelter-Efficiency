@@ -1,0 +1,2 @@
+# From-Stray-to-Stay-Leveraging-Data-to-Improve-Pet-Adoption-and-Shelter-Efficiency
+As pet companionship becomes increasingly important in modern life, the number of animals entering shelters continues to rise. This project aims to better understand adoption dynamics not only to support animal welfare, but also to uncover actionable insights that can guide resource planning, outreach strategy, and sustainable adoption programs.
