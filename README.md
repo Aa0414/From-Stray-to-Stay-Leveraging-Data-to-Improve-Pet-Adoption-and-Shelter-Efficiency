@@ -41,15 +41,6 @@ Adoption Strategy: Insights into adoption likelihood and repeat-intake patterns 
 
 Predictive Modeling: Future work could focus on building predictive models to forecast shelter intake and outcomes, enabling proactive resource planning.
 
-How to Use
-
-Clone the repository.
-
-Review the data folder for the raw dataset and cleaned data.
-
-Explore the analysis scripts in the analysis folder.
-
-Use the visualizations to inform strategic decisions.
 
 Contributing
 
